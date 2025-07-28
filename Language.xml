@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language>
+  <Word us = " cases of data are displayed." kr="건의 데이터가 조회되었습니다" ch ="条数据成功查询" es= "Aparece unos caso de datos"/>
+  <Word us = ":All Worker" kr=":전체조작자" ch =":全体作业者" es= ":Todos los trabajadores"/>
+  <Word us = ":Subcontracting GI" kr=":유상출고" ch =":有偿赊给出库" es= ":Subcontratación GI"/>
+  <Word us = "A duplicate scan for the same identification number cannot be processed." kr="동일한 식별표는 중복 스캔할 수 없습니다" ch =" 同一识别表不能重复扫描" es= "No puede realizar escaneo repetido con misma etiqueta de identificación "/>
+  <Word us = "After displaying PONO for GI, display in detail." kr="출고할 PONO 조회후 상세 조회하세요" ch ="先查询要出库的订单号码后再进行详细查询" es= "Consulta detalle después de buscar PONO que va a salir"/>
+  <Word us = "After Loc" kr="이동 후 LOC" ch ="移动后LOC" es= "Después Loc"/>
+  <Word us = "After selecting the material number to scrap, display in detail." kr="폐기할 품번을 선택후 상세 조회하세요" ch ="请先选择废弃品号后再查询" es= "Seleccione número desechar"/>
+  <Word us = "After setting the storage location items, click on the save button." kr="Storage Location 항목을 설정 후 저장버튼을 클릭하세요" ch ="先选择Storage Location后点击保存按钮进行保存" es= "Dar click de botón guardar después de configurar artículo de Storage Location"/>
+  <Word us = "After transfer :" kr="이동 후:" ch ="移动后：" es= "transferencia:"/>
+  <Word us = "After transfer:" kr="이동 후:" ch ="移动后：" es= "la transferencia:"/>
+  <Word us = "All GI have been cancelled" kr="전체출고가 취소되었습니다" ch ="所有出库已取消" es= "Se han cancelado todos los GI"/>
+  <Word us = "BARCD information is successfully displayed." kr="BARCD 정보 조회 성공 합니다" ch ="BARCD信息查询成功" es= "Consulta información de BARCD exitosamente"/>
+  <Word us = "Before Loc" kr="이동 전 LOC" ch ="移动前LOC" es= "Antes Loc"/>
+  <Word us = "Block" kr="Block" ch ="Block" es= "Block"/>
+  <Word us = "Cancel" kr="취소" ch ="取消" es= "Cancel"/>
+  <Word us = "Cancel order quantity" kr="취소 지시 수" ch ="取消指示数" es= "Cancela cantidad  pedido"/>
+  <Word us = "Cancel Quantity" kr="취소수" ch ="取消数" es= "Cantidad cancelacion"/>
+  <Word us = "Cancel Quantity:" kr="취소수:" ch ="取消数：" es= "Cantidad cancelacion:"/>
+  <Word us = "Cancle scrap" kr="폐기취소" ch ="废弃取消" es= "Cancelacion deshechos"/>
+  <Word us = "Cannot move to the same loading space." kr="동일한 적재공간으로 이동할 수 없습니다" ch ="不能移动到相同的装载空间" es= "No puede mover por mismo lugar de cargo"/>
+  <Word us = "Cannot move." kr="이동불가" ch ="无法移动" es= "Imposible mover."/>
+  <Word us = "Cannot proceed with loading! LOC ID is blocked for loading." kr="적재불가! 적재금지 LOC ID 입니다." ch ="装载禁止的location，无法装载" es= "Imposible mover. LOC ID es un usuario carga prohibido"/>
+  <Word us = "Cannot proceed with loading! LOC ID is not registered." kr="적재불가! 등록되지 않은 LOC ID 입니다." ch ="装载失败，未登陆的location 代码 或 LOCATION状态禁止." es= "Imposible mover. LOC ID no ha registrado."/>
+  <Word us = "Cannot transfer! This LOC ID is impossible to transfer." kr="이동불가! 이동불가 LOC ID 입니다." ch ="不能移动,本Location Id 不得移动" es= "No es posible mover! Es imposible ID de LOC para mover"/>
+  <Word us = "cases of data are displayed." kr="건의 데이터가 조회되었습니다" ch ="条数据成功查询" es= "Aparece unos caso de datos"/>
+  <Word us = "cases of data are displayed. Enter the material number and quantity to transfer." kr="건의 데이터가 조회되었습니다. 이동할 품번과 수량을 입력하세요" ch ="条数据查询成功，请输入移动的品号和数量" es= "Aparece unos caso de datos，Favor de ingresar cantidad y numero de material "/>
+  <Word us = "Change, fixed locations cannot be loaded together.                 " kr="변동, 고정 Location은 함께 적재 할 수 없습니다." ch ="变动,固定Location不能一起装载." es= "No puede cargar con locación de fijo y cambio."/>
+  <Word us = "Check" kr="확인" ch ="确认" es= "Confirmacion"/>
+  <Word us = "Check total issue" kr="전체발행 확인" ch ="全部出库确认" es= "Confirmación de total edición"/>
+  <Word us = "CHECKED" kr="확인" ch ="确认" es= "Confirmacion"/>
+  <Word us = "Company:" kr="Company:" ch ="公司：" es= "Empresa:"/>
+  <Word us = "Configuration" kr="환경설정" ch ="环境设置" es= "Preferencias"/>
+  <Word us = "confirm" kr="전체출고 확인" ch ="请确认" es= "Confirmacion de total salida"/>
+  <Word us = "Confirma por favor" kr="검증해 주세요" ch ="请验证" es= "Confirma por favor"/>
+  <Word us = "Could not transfer to the server." kr="서버로 보내기가 실패하였습니다!" ch ="往服务器传送失败!" es= "No ha enviado a servidor!"/>
+  <Word us = "Current inventory:" kr="현재고:" ch ="现库存:" es= "Inventario actual:"/>
+  <Word us = "Customer material number" kr="고객 품번" ch ="客户品号" es= "Numero Parte Cliente"/>
+  <Word us = "Data is not found!" kr="해당하는 데이타가 없습니다!" ch ="当前查询无数据" es= "Los datos no se encuentran!"/>
+  <Word us = "Date:" kr="날짜：" ch ="日期：" es= "Fecha:"/>
+  <Word us = "DB DATA ERROR!!" kr="DB 연결실패!!!" ch ="DB数据错误！" es= "DB DATA ERROR!!"/>
+  <Word us = "Define the storage location in the environment setting first." kr="환경설정에서 Storage Location을 먼저 설정하세요." ch ="环境设置中请先设置Storage Location" es= "Primero configurar storage location en configuración (preferencias"/>
+  <Word us = "Denter the material number to display." kr="조회할 품목을 입력하십시오." ch ="请输入要查询的品目." es= "Denter the material number to display."/>
+  <Word us = "Details" kr="상세" ch ="详细" es= "Detalle"/>
+  <Word us = "Disconnected from the server! Try to connect again!!!" kr="서버와 연결이 끊어졌습니다. 다시 연결을 시도해주세요!!!" ch ="意外终止了和服务器的连接，请重新连接!!!" es= "No tiene conexión con servidor. Favor de intentar otra vez!"/>
+  <Word us = "Display" kr="조회" ch ="查询" es= "Búsqueda"/>
+  <Word us = "Display has been completed." kr="조회 완료" ch ="查询完成" es= "Búsqueda ha terminado."/>
+  <Word us = "Display the information to process first" kr="처리할 정보를 먼저 조회하세요" ch ="请选择要处理的信息." es= "Consulta primero información que va a tratar"/>
+  <Word us = "Displaying GI detailed information" kr="출고 상세정보 조회중입니다" ch ="正在查询出库详细信息" es= "Buscando información detalle de salida"/>
+  <Word us = "Displaying GI order detailed information." kr="GI상세 정보 조회중입니다." ch ="出库详细信息查询中" es= "Mostrando información detallada del pedido GI."/>
+  <Word us = "Displaying location inventory" kr="Location 재고 조회중" ch ="LOC 库存查询" es= "Consultando inventario de locación"/>
+  <Word us = "Displaying the inventory information of the material number for scrap" kr="폐기대상 품번의 재고정보 조회중입니다" ch ="正在查询废弃对象品号的库存信息" es= "Buscando informacion de inventario de numero de articulo de objeto de desecho"/>
+  <Word us = "Do you delete the identification tag?" kr="식별표를 동시에 삭제하시겠습니까?" ch ="是否同时删除识别表？" es= "Favor de eliminar nada más una etiqueta de identificación？"/>
+  <Word us = "Do you want to enter the total quantity ?" kr="전체출고 수량입력을 하시겠습니까?" ch ="要输入全体出库的数量吗?" es= "Desea ingresar total cantidad de salida?"/>
+  <Word us = "Do you want to paste the label on the PLT? (If you select No, the BOX label will be printed!)" kr="출력할 식별표가 PLT 부착용인가요? (아니오를 선택하시면 PVC용이 출력됩니다!）" ch ="打印的识别表要粘贴到PLT上吗? (选择否的话将打印BOX用识别表!)" es= "¿Quiere pegar la etiqueta en el PLT? (Si selecciona No, se imprimirá la etiqueta BOX!)"/>
+  <Word us = "Enter" kr="입력" ch ="输入" es= "Entrada"/>
+  <Word us = "Enter the issued quantity" kr="출고수량을입력하세요" ch ="输入出库数量" es= "Introduzca la cantidad expedida"/>
+  <Word us = "Enter the LOC ID to be received after scrap cancel" kr="폐기취소후 입고될 LOC ID를 입력하세요" ch ="废弃取消后，请先输入要入库的LOC ID" es= "Ingresa LOC ID que va a entrar despues de cancelar desecho"/>
+  <Word us = "Enter the location ID for material transfer." kr="이동할 자재의 Location ID 를 입력하세요" ch ="请输入移动的资材Location ID" es= "Ingresar Location ID de material lo que va a mover"/>
+  <Word us = "Enter the location ID to move." kr="이동할 자재 Location ID를 입력합니다." ch ="请输入移动的资材Location ID" es= "Ingresar Location ID a mover"/>
+  <Word us = "Enter the material number to display." kr="조회할 품번를 입력하세요" ch ="请输入查询品号" es= "Favor de ingresar número de articulo de consulta"/>
+  <Word us = "Enter the material number to display. The material number should be more than 5 digits." kr="조회할 품번을 5자리 이상을 입력하세요" ch ="请输入要查询的品号，品号位数应大于5位" es= "Ingresar número de articulo a consultar. Número de articulo  debe ser más grande que 5 dígitos"/>
+  <Word us = "Enter the quantity of material transfer first." kr="이동할 자재의 이동수량을 먼저 입력하세요" ch ="请先输入移动的资材数量" es= "Ingresar primero cantidad de traslado de material lo que va a mover"/>
+  <Word us = "Enter the quantity of the materials for GI first." kr="출고할 자재의 출고수량을 먼저 입력하세요" ch ="输入要出库的资材出库数量" es= "Ingresa primero cantidad de salida de material que va a salir"/>
+  <Word us = "Enter the scrap quantity first." kr="폐기수량을 먼저 입력하세요." ch ="请先输入废弃数量" es= "Ingresar primero cantidad de desecho."/>
+  <Word us = "Enter the server IP and server port first in the environment setting." kr="환경설정에서 먼저 서버 IP 및 서버 PORT를 입력하여 주세요" ch ="先在环境设置中输入服务器IP以及服务器端口号" es= "Primero ingresa servidor de puerto y servidor de IP en configuración (preferencias)"/>
+  <Word us = "Enter the transfer quantity." kr="이동수량을입력하세요" ch ="请输入移动数量" es= "Introduzca la cantidad expedida."/>
+  <Word us = "Entered LOCID successfully." kr="LOCID 입력 성공" ch ="LOCID输入成功" es= "Ingresa LOCID exitosamente"/>
+  <Word us = "Environment setting" kr="환경설정" ch ="环境设定" es= "Configuracion (preferencias)"/>
+  <Word us = "ERP_NO" kr="ERP_NO" ch ="ERP_NO" es= "ERP_NO"/>
+  <Word us = "Erro: Duplicate scan is not allowed." kr="에로: 중복 스캔은 허용되지 않습니다." ch ="错误：不可重复扫描" es= "Error:Imposible escaneo repetido"/>
+  <Word us = "Error occurred during quantity input" kr="수량 입력중 오류발생" ch ="输入数量中发生了错误" es= "Tiene error mientras ingresando cantidad"/>
+  <Word us = "Error occurred while processing." kr="처리중 오류가 발생하였습니다" ch ="处理中发生了错误" es= "Tiene error mientras ha procesado"/>
+  <Word us = "Error occurred." kr="오류가 발생합니다." ch ="发生错误." es= "Tiene error"/>
+  <Word us = "Error:" kr="오류:" ch ="错误:" es= "Error:"/>
+  <Word us = "Etc" kr="기타" ch ="其他" es= "Etc"/>
+  <Word us = "Fail to receive from DB !!!" kr="DB 연결에 실패하였습니다!!!" ch ="从DB接收失败！" es= "Fail to receive from DB!!!"/>
+  <Word us = "GI" kr="출고" ch ="出库" es= "GI"/>
+  <Word us = "GI complete." kr="출고완료." ch ="出库完毕。" es= "GI complete."/>
+  <Word us = "GI date" kr="출고날짜" ch ="出库日期" es= "GI date"/>
+  <Word us = "GI Order" kr="출고순번" ch ="出库顺序" es= "GI Order"/>
+  <Word us = "GI qty:" kr="출고수:" ch ="出库数:" es= "GI qty:"/>
+  <Word us = "GI quantity" kr="출고수량" ch ="出库数量" es= "GI quantity"/>
+  <Word us = "GI quantity shall not exceed picking quantity" kr="출고수량은 지시수량을 초과할수 없습니다" ch ="出库数量不得超过指示数量" es= "Cantidad de salida no puede exceder cantidad de indicacion"/>
+  <Word us = "GI rate" kr="출고율" ch ="出库率" es= "Porcentaje de salida"/>
+  <Word us = "GI time" kr="출고일시" ch ="出库日时" es= "Fecha de salida"/>
+  <Word us = "Good Issue" kr="출고" ch ="出库" es= "Salida Mercancia"/>
+  <Word us = "Good Issue Display" kr="출고조회" ch ="出库查询" es= "Salida Informacion"/>
+  <Word us = "Good Receipt" kr="입고" ch ="入库" es= "Eentrada (GR)"/>
+  <Word us = "GR (loading)" kr="입고(적재)" ch ="入库（装载）" es= "Entrada (carga)"/>
+  <Word us = "GR (loading) display" kr="입고(적재)조회" ch ="入库（装载）查询" es= "Entrada Consulta(carga)"/>
+  <Word us = "GR Date" kr="입고일자" ch ="入库日期" es= "Fecha Entrada Mercancia"/>
+  <Word us = "GR Idn' Label number" kr="식별표" ch ="识别表" es= "Etiquetas Identificacion"/>
+  <Word us = "GR storage location" kr="입고창고" ch ="入库仓库" es= "Deposito Entrada Materiales"/>
+  <Word us = "GR Waiting Display" kr="입고대기조회" ch ="入库待机查询" es= "GR espera display "/>
+  <Word us = "HU asign" kr="HU asign" ch ="HU asign" es= "HU asignado"/>
+  <Word us = "Idn' Label inventory display" kr="식별표 재고 조회 " ch ="识别表在库查询" es= "Informacion Identificacion"/>
+  <Word us = "Idn' Label type select" kr="식별표" ch ="识别表 Type 选择" es= "Identificacion tipo seleccionar"/>
+  <Word us = "Immediate charge" kr="즉시충전" ch ="立即充电" es= "Immediate charge"/>
+  <Word us = "Inappropriate loading space" kr="부적절 적재공간" ch ="装载空间不存在" es= "Espacio de carga inadecuado"/>
+  <Word us = "Initialization completed (except for storage location!)" kr="초기화 완료 (Storage Location 제외!)" ch ="初始化结束(Storage Location除外!)" es= "Terminación de inicialización (Excepto Storage Location!)"/>
+  <Word us = "Initialize" kr="초기화" ch ="初始化" es= "Inicializacion"/>
+  <Word us = "Initialize the environmental setting" kr="환경설정 초기화" ch ="环境设置初始化" es= "Inicialización de configuración (preferencias)"/>
+  <Word us = "Input" kr="입력" ch ="输入" es= "Entrada"/>
+  <Word us = "Issue" kr="출고" ch ="出库" es= "Salida Mercancia"/>
+  <Word us = "Issue all has been canceled." kr="전체발행이 취소되었습니다" ch ="取消全部出库" es= "Ha cancelado edición total"/>
+  <Word us = "Issue Idn' Label" kr="출고식별표" ch ="出库识别表" es= "Salida Identificacion"/>
+  <Word us = "Issue Idn' Label label" kr="출고식별표번호" ch ="出库识别表编号" es= "Issue Idn' Label label"/>
+  <Word us = "Issued amount" kr="출고금액" ch ="出库金额" es= "Precio de salida"/>
+  <Word us = "Issued amount:" kr="출고금액：" ch ="出库金额:" es= "Precio de salida:"/>
+  <Word us = "Issued quantity" kr="출고수량" ch ="出库数量" es= "Cantidad Salida Mercancia"/>
+  <Word us = "It is displayed." kr="조회 완료." ch ="查询完毕." es= "búsqueda ha terminado."/>
+  <Word us = "ITEM:" kr="ITEM:" ch ="ITEM:" es= "ITEM:"/>
+  <Word us = "JOBDAY" kr="JOBDAY" ch ="JOBDAY" es= "JOBDAY"/>
+  <Word us = "Lack(" kr="부족(" ch ="不足(" es= "Falta("/>
+  <Word us = "Language :" kr="언어：" ch ="语言：" es= "Idioma :"/>
+  <Word us = "Loading" kr="적재" ch ="装载" es= "Carga"/>
+  <Word us = "LOC inventory" kr="LOC 재고 조회" ch ="LOC 库存查询" es= "Búsqueda distrito inventario "/>
+  <Word us = "LOC inventory (issue)" kr="LOC 재고 （Print）" ch ="LOC 库存（打印）" es= "Imprimir distrito inventario"/>
+  <Word us = "LOC_ID" kr="LOC_ID" ch ="LOC_ID" es= "LOC_ID"/>
+  <Word us = "LOCID Successful entry" kr="LOCID 입력 성공" ch ="LOCID输入成功" es= "LOCID Entrada exitosa"/>
+  <Word us = "Log Out" kr="로그아웃" ch ="退出" es= "Salida"/>
+  <Word us = "LogOut" kr="로그아웃" ch ="退出" es= "Salida"/>
+  <Word us = "Log-out" kr="로그아웃" ch ="退出" es= "Salida"/>
+  <Word us = "M NM:" kr="품명 :" ch ="品名:" es= "Nombre :"/>
+  <Word us = "M NO:" kr="품번:" ch ="品号:" es= "Numero :"/>
+  <Word us = "M/T Name" kr="이동 유형" ch ="移动类型" es= "Traslado tipo"/>
+  <Word us = "Material inventory display" kr="품번별 재고 조회" ch ="品号在库查询" es= "Búsqueda inventario numero"/>
+  <Word us = "Material inventory display:" kr="품번별 재고 조회:" ch ="品号在库查询:" es= "Búsqueda inventario numero:"/>
+  <Word us = "Material name" kr="품명" ch ="品名" es= "Nombre"/>
+  <Word us = "Material Name" kr="품명" ch ="品名" es= "Nombre"/>
+  <Word us = "Material Number" kr="품목" ch ="品号" es= "Número de material"/>
+  <Word us = "Material number" kr="품목" ch ="品号" es= "Número de material"/>
+  <Word us = "Material number:" kr="품목:" ch ="品号:" es= "Número de material:"/>
+  <Word us = "Material transfer (N.G.)" kr="자재 이동(Block)" ch ="资材移动(Block)" es= "Material traslado (Block)"/>
+  <Word us = "Material transfer (O.K.)" kr="자재 이동(양품)" ch ="资材移动(良品)" es= "Material traslado (OK)"/>
+  <Word us = "Mov. Qty" kr="이동수" ch ="移动数" es= "Número de traslado"/>
+  <Word us = "Mov. Qty:" kr="이동수：" ch ="移动数:" es= "Número de traslado:"/>
+  <Word us = "MOVE" kr="이동" ch ="移动" es= "Movimiento"/>
+  <Word us = "No exit picking details, please check the picking details first" kr="조회된 출고지시상세 정보가 없습니다. 출고지시상세를 먼저 조회하세요" ch ="无出库指示详细信息，请先查询出库指示详细内容" es= "No tiene informacion detalle de indicacion de salida consultado. Consulta primero detalle de indicacion de salida"/>
+  <Word us = "Order Quantity" kr="주문수량" ch ="订单数量" es= "Orden cantidad"/>
+  <Word us = "Order quantity:" kr="주문수량：" ch ="指示数量:" es= "Orden cantidad:"/>
+  <Word us = "Picking Move" kr="Picking Move" ch ="Picking Move" es= "Picking mové"/>
+  <Word us = "Picking No" kr="Picking No" ch ="Picking No" es= "Picking Nombre"/>
+  <Word us = "Picking Order Display" kr="Picking 지시 조회" ch ="Picking指示查询" es= "Búsqueda Indicacion Picking"/>
+  <Word us = "Picking：" kr="지시:" ch ="指示:" es= "Picking："/>
+  <Word us = "Plant:" kr="Plant:" ch ="PLANT:" es= "Plant:"/>
+  <Word us = "Please check the information you want to process first" kr="처리할 정보를 먼저 조회하세요" ch ="请先查询要处理的信息" es= "Consulta primero informacion que va a tratar"/>
+  <Word us = "Please check." kr="검증해 주세요" ch ="请验证" es= "Confirma por favor"/>
+  <Word us = "Please do not repete BARCOD" kr="BARCOD를 중복 스캔하지 마십시오" ch ="请不要重复扫描BARCOD" es= "Favor de no repetir BARCOD"/>
+  <Word us = "Please enter a quantity above 0" kr="수량은 0 이상 입력하세요" ch ="请输入0以上数量" es= "Ingresa cantidad mas de 0"/>
+  <Word us = "Please enter the issue quantity." kr="출고 수량을 입력하세요." ch ="请输入出库数量。" es= "Ingrese salida cantidad."/>
+  <Word us = "Please enter the material number to query." kr="조회할 품번를 입력하세요" ch ="请输入查询品号" es= "Ingresar numero de producto para consultar."/>
+  <Word us = "Please enter the material number to query. The number of digits of the material number  should be greater than 5 digits" kr="조회할 품번을 5자리 이상을 입력하세요" ch ="请输入要查询的品号，品号位数应大于5位" es= "Ingresar numero de producto más de 5 dígitos para consultar"/>
+  <Word us = "Please enter the quantity to issue first" kr="발행할 수량을 먼저 입력하세요" ch ="请先输入要发行的数量" es= "Primero ingresa cantidades para editar."/>
+  <Word us = "Please input the print quantity." kr="출력 수량을 입력하십시오." ch ="请输入打印数量。" es= "Ingrese print cantidad."/>
+  <Word us = "Please scan the Idn' Label barcode first." kr="식별표 바코드를 먼저 스캔하세요" ch ="先扫描识别表条形码" es= "Prmiero escandir a código de barras de etiqueta de identificación"/>
+  <Word us = "Please scan the LOC ID first." kr="LOC ID를 먼저 스캔하세요" ch ="先扫描LOC ID" es= "Primero escandir LOC ID"/>
+  <Word us = "Previous:" kr="전：" ch ="前：" es= "Antes:"/>
+  <Word us = "Print" kr="발행" ch ="打印" es= "Print"/>
+  <Word us = "Print qty:" kr="발행수:" ch ="发行数:" es= "Emision:"/>
+  <Word us = "Processing GI" kr="출고처리중입니다" ch ="出库处理中" es= "Ha procesado de salida"/>
+  <Word us = "Processing loading" kr="적재처리중입니다" ch ="装载处理中" es= "Ha cargado"/>
+  <Word us = "Processing movement " kr="이동 처리중" ch ="移动处理中" es= "En movimiento "/>
+  <Word us = "Processing scrap" kr="폐기처리중입니다" ch ="废弃处理中" es= "Ha procesado desecho"/>
+  <Word us = "Processing scrap cancel" kr="폐기취소 처리중입니다" ch ="正在处理废弃取消" es= "Ha procesado cancelacion desecho"/>
+  <Word us = "Processing." kr="처리중입니다" ch ="处理中." es= "Ha procesado"/>
+  <Word us = "Processing. Material number:" kr="처리중입니다 품번:" ch ="处理中品目：" es= "Ha procesado a número de articulo:"/>
+  <Word us = "Prodution date " kr="생산날짜" ch ="生产日期" es= "Producción Fecha "/>
+  <Word us = "Program is running." kr="프로그램이 이미 실행중입니다." ch ="程序正在执行中." es= "Ha progresando programa."/>
+  <Word us = "Program upgrade" kr="Program upgrade" ch ="程序升级" es= "Actualización programae"/>
+  <Word us = "Progress Rate" kr="처리율" ch ="处理率" es= "Progreso tasa"/>
+  <Word us = "Qualified material" kr="합격품" ch ="合格品" es= "Material cualificado"/>
+  <Word us = "Quantity" kr="수량" ch ="数量" es= "Cantidad"/>
+  <Word us = "Quantity entered normally" kr="수량이 입력되었습니다." ch ="数量正常输入。" es= "Ha ingresado cantidad"/>
+  <Word us = "Quantity is entered." kr="전체출고가 취소되었습니다" ch ="数量已输入" es= "Ha ingresado cantidad"/>
+  <Word us = "Quantity should be greater than 0." kr="수량은 0 이상 입력하세요" ch ="数量应大于0" es= "Ingresa cantidad más de 0"/>
+  <Word us = "Quantity:" kr="수량:" ch ="数量：" es= "Cantidad:"/>
+  <Word us = "Query error!!!" kr="데이타 조회에 실패하였습니다!!!" ch ="查询错误" es= "Query error!!!"/>
+  <Word us = "Question" kr="Question" ch ="Question" es= "Pregunta"/>
+  <Word us = "Receiving from the server has been failed." kr="서버에서 받기가 실패하였습니다!" ch ="从服务器接收失败!" es= "Falla recibir desde servidor!"/>
+  <Word us = "Release is complete." kr="발행 완료." ch ="发行完毕。" es= "Impresión completa."/>
+  <Word us = "Requesting line information." kr="라인정보를 요청중입니다" ch ="生产线信息请求中" es= "Pidiendo información de linea"/>
+  <Word us = "Row IDSEQ" kr="행 IDSEQ" ch ="行IDSEQ" es= "fila IDSEQ"/>
+  <Word us = "Row LOCATION" kr="행 LOCATION" ch ="行LOCATION" es= "fila LOCATIO"/>
+  <Word us = "Row LOCATION And IDSEQ" kr="행 LOCATION 및 IDSEQ" ch ="行LOCATION以及IDSEQ" es= "fila LOCATION e IDSEQ"/>
+  <Word us = "Save" kr="저장" ch ="保存" es= "Guardar"/>
+  <Word us = "Save the environmental setting" kr="환경설정 저장" ch ="保存环境变量" es= "Guardar configuración (preferencias)"/>
+  <Word us = "Scan the correct barcode." kr="올바른 Barcode를 스캔하십시오" ch ="请扫描正确的BARCODE" es= "Favor de escandir BARCODE exacto"/>
+  <Word us = "Scrap cancel quantity cannot exceed the inventory quantity." kr="폐기 취소 수량은 재고 수량을 초과할 수 없습니다" ch ="废弃取消数量不得超过在库数量" es= "Cancelación cantidad no puede exceder inventario."/>
+  <Word us = "Scrap processing" kr="폐기처분" ch ="废弃处理" es= "Desechar"/>
+  <Word us = "Scrap quantity cannot exceed the inventory quantity." kr="폐기수량은 재고수량을 초과할수 없습니다" ch ="废弃数量不得超过在库数量" es= "Cantidad de desecho no puede exceder cantidad de inventario."/>
+  <Word us = "Select the ERP no. to display." kr="상세조회할 작지(출고처)를 선택하세요!" ch ="请选择要查询的ERPNO!" es= "Seleccionar ERPNO que consultar!"/>
+  <Word us = "Select the item number you want to cancel!" kr="폐기취소할 품번을 선택하세요!" ch ="请先选择废弃取消品号" es= "Seleccionar numero de articulo que cancelar desecho!"/>
+  <Word us = "Select the item to print." kr="인쇄할 항목을 선택하십시오" ch ="请选择要打印的条目" es= "Seleccionar articulo para imprimir"/>
+  <Word us = "Select the material number to scrap.!" kr="폐기할 품번을 선택하세요!" ch ="请选择废弃的品号!" es= "Seleccionar numero de desecho.!"/>
+  <Word us = "Select the work order (supplying S/L) to display in detail." kr="상세조회할 작지(출고처)를 선택하세요!" ch ="请选择要查询的作业指示(出库处)!" es= "Seleccionar empresa de salida para consultar detalle!"/>
+  <Word us = "Sequence" kr="Sequence" ch ="序号" es= "Sequence"/>
+  <Word us = "Server IP:" kr="Server IP:" ch ="通信服务器IP:" es= "Server IP:"/>
+  <Word us = "Server Port:" kr="Server Port:" ch ="通信服务器端口号:" es= "Server Port:"/>
+  <Word us = "Ship-to-party" kr="Ship-to-party" ch ="客户" es= "Ship-to-party"/>
+  <Word us = "Since this information has been saved already, GI is processed when all the items are processed with GI." kr="이 정보는 이미 저장되었으므로, 모든 항목이 출고될 때 출고된다." ch ="这笔信息已保存，当BARCD齐全后出库" es= "Esta informacion ya ha guardado, cuando sale todos los articulos va a salir"/>
+  <Word us = "Storage Location:" kr="Storage Location:" ch ="仓库：" es= "Ubicacion:"/>
+  <Word us = "Subcontracting GI must select all the picking quantity." kr="유상외상출고는 지시수량에 따라 모두 출고하셔야 출고작업이 가능합니다" ch ="有偿赊给出库需按照指示数量全部出库才能进行出库作业" es= "Subcontratación GI debe seleccionar toda  cantidad recogida."/>
+  <Word us = "Successfully processed" kr="정상적으로 처리되었습니다" ch ="已正常处理" es= "Ha procesado normalmente"/>
+  <Word us = "Successfully verified location adequacy" kr="Location 적정성 검증 성공" ch ="Location 合理性检验成功" es= "Exito verificación de adecuación de locación"/>
+  <Word us = "Sufficient(" kr="충분(" ch ="充足(" es= "Suficiente("/>
+  <Word us = "Sufficient(100%)" kr="충분(100%)" ch ="充足(100%)" es= "Suficiente(100%)"/>
+  <Word us = "Supplying S/L" kr="출고처" ch ="出库处" es= "lugar salida"/>
+  <Word us = "Supplying S/L:" kr="출고처:" ch ="出库处:" es= "lugar salida:"/>
+  <Word us = "Termination" kr="닫기" ch ="结束" es= "Cerrar"/>
+  <Word us = "TF Date" kr="이동일자" ch ="移动日期" es= "Traslado fecha"/>
+  <Word us = "The identification number has been entered successfully." kr="식별표 번호 입력 성공" ch ="识别表编号输入成功" es= "Ha ingresado a código de barras de etiqueta de identificación exitosamente"/>
+  <Word us = "The number of prints must not exceed the number of good products" kr="발행수량은 양품수량을 초과할수 없습니다" ch ="打印数量不得超过良品数量" es= "Cantidad edicion no puede exceder cantidad buena"/>
+  <Word us = "The printed quantity cannot exceed the GI quantity" kr="출력 수량이 출고 수량을 초과할 수 없습니다." ch ="打印数量不得超过出库数量" es= "Impresa cantidad no puede superar GI"/>
+  <Word us = "The program has been initialized." kr="프로그램이 초기화 되었습니다" ch ="程序已正常初始化" es= "Reiniciado programa."/>
+  <Word us = "The quantity has been entered." kr="수량이 입력되었습니다." ch ="数量已输入完成." es= "Ha ingresado cantidad."/>
+  <Word us = "The queried information  does not exist. Enter the location ID  you want to move first" kr="조회된 재고가 없습니다. 이동할 재고의 Location ID 를 먼저 입력하세요" ch ="查询的在库信息不存在. 请先输入要移动的在库location ID" es= "No tiene inventario consultado. Ingresar primero Location ID de inventario que va a mover"/>
+  <Word us = "The scrap has been processed completed." kr="폐기 처리 완료" ch ="废弃处理已完成" es= "Desecho terminación."/>
+  <Word us = "The selected location is not empty. Please select again." kr="선택한 location 이 비어 있지 않으므로 다시 선택하세요." ch ="所选LOCATION不为空，请重新选择" es= "Locación seleccionado no está en vacio. Favor de seleccion nuevo"/>
+  <Word us = "The selected zone can be installed only with a PLT unit. Please check!" kr="선택한 ZONE은 PLT 단위에 따라 적재만 확인하십시오!" ch ="所选ZONE只能按照PLT单位进行装在请确认!" es= "ZONE seleccionado puede instalar solo por unidad. Favor de confirmar!"/>
+  <Word us = "The server environmental setting has been changed. Now, the program will end. Please start again." kr="서버 환경설정이 변경되었습니다. 프로그램을 종료합니다. 다시시작하세요" ch ="服务器环境设置已变更，要终止程序，请重新登录" es= "Ha cambiado configuración de servidor. Terminar programa. Reinicia "/>
+  <Word us = "The transfer quantity cannot exceed the inventory quantity." kr="이동수량은 재고수량을 초과할수 없습니다" ch ="移动数量不得超过库存数量" es= "Cantidad traslado no puede exceder cantidad de inventario"/>
+  <Word us = "The user authorization required first." kr="사용자 인증을 먼저 하셔야 합니다." ch ="请先进行使用者认证." es= "Primero tiene que certificar usuario"/>
+  <Word us = "The user ID is not correct!" kr="사용자 ID가 정확하지 않습니다!" ch ="使用者ID不正确!" es= "Primero tiene que certificar usuario"/>
+  <Word us = "The whole quantity with scrap order should be scrapped." kr="폐기지시된 전체수량을 폐기해야만 합니다" ch ="需废弃废弃指示的全部数量" es= "Tiene que tirar total cantidad que desecho indicado."/>
+  <Word us = "There is no displayed GI information. Display the GI information first." kr="조회된 출고정보가 없습니다. 출고정보를 먼저 조회하세요" ch ="无查询的出库信息，请查询出库信息" es= "No tiene información de salida consultado. Consulta primero información de salida"/>
+  <Word us = "There is no displayed GI order. Display GI order first." kr="조회된 출고지시가 없습니다. 출고지시를 먼저 조회하세요" ch ="无查询信息，先查询PICKING信息" es= "No tiene indicación de salida consultado. Consulta primero indicación de salida"/>
+  <Word us = "There is no displayed information. Display the scrap information first." kr="조회된 정보가 없습니다.폐기할 정보를 먼저 조회하세요" ch ="查询的信息不存在.请查询数据后再进行废弃" es= "No tiene informacion consultado. Consulta primero informacion que va a desechar."/>
+  <Word us = "There is no displayed inventory. Enter the location ID to transfer inventory first." kr="조회된 재고가 없습니다. 이동할 재고의 Location ID 를 먼저 입력하세요" ch ="查询的在库信息不存在. 请先输入要移动的在库locationID" es= "No hay inventarios, Favor de confirmar location ID"/>
+  <Word us = "There is no error in the verification Idn' Label." kr="검증 식별표가 잘못" ch ="验证识别表出错" es= "Tiene error en etiqueta de identificación de verificación"/>
+  <Word us = "There is no existing inventory information." kr="현재고 정보가 없습니다." ch ="无现库存信息." es= "No hay información de inventario actual."/>
+  <Word us = "There is no GI order information." kr="출고할 지시정보가 없습니다" ch ="无出库指示信息." es= "No hay información de indicación que va a salir"/>
+  <Word us = "There is no inventory information to transfer." kr="이동할 재고정보가 없습니다" ch ="无移动的库存信息" es= "No hay información de inventario lo que va a mover"/>
+  <Word us = "There is no picking move data. Transfer first." kr="피싱되지 않은 MOVE 데이터가 있으면 먼저 이동하십시오" ch ="有未PICKING MOVE数据,请先移动" es= "No hay información PICKING MOVE. Mover primero"/>
+  <Word us = "There is no picking movement inforamtion." kr="출고할 지시정보가 없습니다" ch ="无出库指示信息" es= "No hay información de traslado de PICKING"/>
+  <Word us = "There is no scrap order information." kr="폐기할 지시정보가 없습니다" ch ="无废弃的指示信息" es= "No hay informacion de indicacion para abandonar."/>
+  <Word us = "There is no version information." kr="버전 정보는 없습니다." ch ="无版本信息" es= "No hay información de versión"/>
+  <Word us = "This code is moved already." kr="이동 완료." ch ="移动完成." es= "Traslado terminación."/>
+  <Word us = "This is not an space inappropriate for the master. Will you still proceed with loading?" kr="마스터에 적합하지 않은 공간입니다.적재하시겠습니까?" ch ="基本信息里不存在的空间，确定要装载吗?" es= "Espacio incorrecto para master. Desea cargar?"/>
+  <Word us = "Total" kr="전체" ch ="全体" es= "Total"/>
+  <Word us = "Total GI confirm" kr="전체출고 확인" ch ="全体出库确认" es= "Confirmacion de total salida"/>
+  <Word us = "Total quantity:" kr="총수량：" ch ="总数量：" es= "Total cantidad:"/>
+  <Word us = "Total Quantity:" kr="총수량：" ch ="总数量：" es= "Total cantidad:"/>
+  <Word us = "Transfer" kr="이동" ch ="移动" es= "Traslado"/>
+  <Word us = "Transfer (Block)" kr="이동(Block)" ch ="移动（Block）" es= "Traslado (bloque)"/>
+  <Word us = "Transfer (Unrestricted)" kr="이동(가용)" ch ="移动（可用）" es= "Traslado (Disponible)"/>
+  <Word us = "Transfer display" kr="이동조회" ch ="移动查询" es= "Informacion traslado"/>
+  <Word us = "Transfer type" kr="이동 유형" ch ="移动类型" es= "Traslado tipo"/>
+  <Word us = "Type" kr="유형" ch ="类型" es= "Tipo"/>
+  <Word us = "Unable to move! This is an unregistered LOC ID." kr="이동불가! 등록되지 않은 LOC ID 입니다." ch ="不能移动，未登陆的Location Id" es= "Imposible mover! No ha registrado usuario."/>
+  <Word us = "Under movement loading location verification" kr="이동적재 LOC 검증중" ch ="移动装载Location检验中" es= "Verificando carga de traslado LOC"/>
+  <Word us = "Urgent" kr="긴급" ch ="紧急" es= "Urgencia"/>
+  <Word us = "User:" kr="User:" ch ="User:" es= "User:"/>
+  <Word us = "Verification completed for the loading space. Click on the trnasfer button to complete the transfer." kr="적재공간 검증완료.이동버튼을 클릭하여 이동처리완료하세요" ch ="装载空间验证完毕，请点击移动按钮进行移动作业" es= "Ya ha verificado de espacio de carga. Dar click de botón de traslado y después completar traslado "/>
+  <Word us = "Will you enter the total GI quantity?" kr="전체출고 수량입력을 하시겠습니까?" ch ="要输入全体数量吗?" es= "Desea ingresar total cantidad de salida?"/>
+  <Word us = "Will you enter the total issued quantity? " kr="전체발행 수량입력을 하시겠습니까?" ch ="要输入全部出库数量吗？" es= "Desea ingresar total cantidad de edición？"/>
+  <Word us = "Will you save?" kr="저장하시겠습니까?" ch ="要保存数据吗?" es= "Desea guardar?"/>
+  <Word us = "WMS Picking No" kr="WMS Picking No" ch ="WMS Picking 编号" es= "WMS Picking No"/>
+  <Word us = "WMSPickingNO" kr="WMSPickingNO" ch ="WMS Picking编号" es= "WMSPickingNO"/>
+  <Word us = "Worker" kr="조작자" ch ="操作者" es= "Worker"/>
+  <Word us = "Worker Name" kr="조작자" ch ="操作者" es= "Worker Name"/>
+  <Word us = "Would you like to initialize?" kr="초기화하시겠습니까?" ch ="您要初始化吗？" es= "Desea reiniciar?"/>
+  <Word us = "You can only load the same material number for the selected LOCID." kr="선택한 LOCID는 동일 품번만 적재할 수 있습니다." ch ="所选LOCID只能装载同一品号" es= "LOCID seleccionado solo puede cargar mismo número de material "/>
+  <Word us = "You cannot issue more than 4 items!" kr="수량은 4개 이상 발행할 수 없습니다!" ch ="不能发行4个以上数量!" es= "¡No puede emitir más 4 EA!"/>
+  <Word us = "You cannot to enter more than 12 digits for the Idn' Label barcode." kr="식별표 바코드는 12개 이상 입력이 불가함" ch ="识别表条形码输入不得超过12个" es= "Código de barras de etiqueta de identificación es imposible ingresar más de 12"/>
+  <Word us = "You do not have access to the screen!" kr="해당화면의 권한이 없습니다!" ch ="无本界面的权限!" es= "No tiene acceso de esta pantalla!"/>
+  <Word us = "You have not entered the customer number or the entry Idn' Label of the line" kr="행의 입고 식별표 또는 고객 품번이 입력되지 않았습니다." ch ="行的入库识别表或者顾客品号信息未输入" es= "No ha ingresado numero de cliente o etiqueta de identificación de entrada de la linea"/>
+  <Word us = "Error occurred during server time setting!" kr="서버 시간 설정 중 오류가 발생했습니다!" ch ="服务器时间设置中发生错误!" es= "Produjo error!"/>
+  <Word us = "Display the information to process first." kr="처리할 정보를 먼저 조회합니다." ch ="首先显示要处理的信息。" es= "Para ver qué información quiere procesar primero.."/>
+  <Word us = "Will you enter the total issued quantity?" kr="전체발행 수량입력을 하시겠습니까?" ch ="请输入发行总量。" es= "Desea ingresar total cantidad de edicion?"/>
+  <Word us = "The printed quantity cannot exceed the GI quantity." kr="발행 수량은 GI 수량을 초과할 수 없습니다." ch ="打印数量不能超过出库数量。" es= "Impresa cantidad no puede superar GI."/>
+  <Word us = "Displaying GI detailed information " kr="GI상세정보조회" ch ="显示 出库 详细信息" es= "Información detallada GI "/>
+  <Word us = " There is no existing inventory information." kr="기존 재고 정보가 없습니다." ch ="没有现存的库存信息。" es= " No hay información existente sobre inventario."/>
+  <Word us = "Change, fixed locations cannot be loaded together." kr="변동, 고정 위치를 함께 로드할 수 없습니다." ch ="变动，固定位置不能一起加载。" es= "Cambio, lugares fijos no se pueden utilizar juntos."/>
+  <Word us = "Processing movement" kr="이동처리중입니다" ch ="移动处理中" es= "En tramitacion traslado"/>
+  <Word us = "Quantity entered normally." kr="수량이 입력되었습니다." ch ="数量已正常输入。" es= "Ha ingresado cantidad."/>
+  <Word us = "Scrap" kr="폐기" ch ="废弃" es= "Desecho"/>
+  <Word us = "Block" kr="Block" ch ="不良" es= "Bloque"/>
+</Language>

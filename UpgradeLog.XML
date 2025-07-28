@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DYPC_WMS_PDA">
+</Property><Property Name="솔루션 파일" Value="D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\DYPC_WMS_PDA.sln">
+</Property><Property Name="Date" Value="2019년 7월 18일 목요일">
+</Property><Property Name="Time" Value="오전 11:12">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DYPC_WMS_PDA.sln" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\DYPC_WMS_PDA.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="DYPC_WMS_PDA.csproj" Description="프로젝트 파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\DYPC_WMS_PDA.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="DYPC_WMS_PDA.csproj.user" Description="프로젝트 사용자 파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\DYPC_WMS_PDA.csproj.user(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="CodeConfig.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\CodeConfig.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="DYPCPDA.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\DYPCPDA.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="Function.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\Function.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="PDA_Version.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\PDA_Version.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="Program.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\Program.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="Properties\AssemblyInfo.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\Properties\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="Properties\Resources.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\Properties\Resources.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="ReceiveMessage.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\ReceiveMessage.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="ReceiveXML.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\ReceiveXML.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="SendXML.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\SendXML.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="ServerConfig.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\ServerConfig.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="TCPClient.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\TCPClient.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S00.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S00.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S00.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S00.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S10.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S10.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S10.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S10.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S11.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S11.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S11.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S11.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S20.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S20.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S20.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S20.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S30.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S30.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S30.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S30.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S40.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S40.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S40.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S40.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S61.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S61.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S61.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S61.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U12.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U12.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U12.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U12.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S13.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S13.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S13.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S13.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U21.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U21.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U21.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U21.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S23.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S23.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S23.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S23.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S31.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S31.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S31.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S31.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U32.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U32.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U32.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U32.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S33.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S33.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S33.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S33.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U41.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U41.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U41.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U41.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S42.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S42.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S42.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S42.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U50.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U50.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U50.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U50.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U60.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U60.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U60.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U60.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U61.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U61.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U61.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U61.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U90.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U90.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U90.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U90.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U42.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U42.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U42.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U42.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S43.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S43.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S43.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S43.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S34.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S34.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S34.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S34.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U22.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U22.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U22.Designer.cs" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U22.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="ClassDiagram1.cd" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\ClassDiagram1.cd(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="DY_WMS_CWPDA.ico" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\DY_WMS_CWPDA.ico(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="Properties\Resources.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\Properties\Resources.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S00.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S00.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S10.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S10.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S11.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S11.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S20.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S20.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S30.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S30.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S40.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S40.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S61.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S61.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U12.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U12.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S13.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S13.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U21.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U21.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S23.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S23.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S31.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S31.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U32.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U32.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S33.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S33.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U41.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U41.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S42.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S42.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U50.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U50.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U60.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U60.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U61.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U61.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U90.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U90.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U42.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U42.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S43.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S43.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S34.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1S34.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U22.resx" Description="파일을 D:\PDA\장인법인\장인법인PDA\DYPC_WMS_PDA\Backup\W_PD1U22.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="DYPC_WMS_PDA.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="DYPC_WMS_PDA.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DYPC_WMS_PDA.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="DYPC_WMS_PDA.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="Properties\Resources.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S00.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S00.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S10.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S10.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S11.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S11.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S13.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S13.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S20.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S20.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S23.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S23.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S30.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S30.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S31.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S31.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S33.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S33.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S34.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S34.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S40.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S40.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S42.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S42.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S43.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S43.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1S61.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1S61.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U12.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U12.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U21.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U21.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U22.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U22.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U32.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U32.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U41.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U41.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U42.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U42.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U50.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U50.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U60.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U60.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U61.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U61.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="W_PD1U90.resx" Description="파일을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="DYPC_WMS_PDA" Source="W_PD1U90.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYPC_WMS_PDA" Source="DYPC_WMS_PDA.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

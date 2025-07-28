@@ -1,0 +1,362 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8EE9EDEB-7E25-4E7F-8D2F-69F96CDA18B3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DYPI_WMS_PDA</RootNamespace>
+    <AssemblyName>DYPI_WMS_PDA</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.00</OSVersion>
+    <DeployDirSuffix>DYPI_WMS_PDA_CAB</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <StartupObject>DYPI_WMS_PDA.Program</StartupObject>
+    <ApplicationIcon>DY_WMS_CWPDA.ico</ApplicationIcon>
+    <DeployDirPrefix>%25CSIDL_PROGRAM_FILES%25</DeployDirPrefix>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <NativePlatformName>Windows CE</NativePlatformName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CodeConfig.cs" />
+    <Compile Include="DYPCPDA.cs" />
+    <Compile Include="Function.cs" />
+    <Compile Include="MultLanguage.cs" />
+    <Compile Include="PDA_Version.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S00.resx">
+      <DependentUpon>W_PD1S00.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S10.resx">
+      <DependentUpon>W_PD1S10.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S11.resx">
+      <DependentUpon>W_PD1S11.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S20.resx">
+      <DependentUpon>W_PD1S20.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S30.resx">
+      <DependentUpon>W_PD1S30.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S40.resx">
+      <DependentUpon>W_PD1S40.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S61.resx">
+      <DependentUpon>W_PD1S61.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U12.resx">
+      <DependentUpon>W_PD1U12.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S13.resx">
+      <DependentUpon>W_PD1S13.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U21.resx">
+      <DependentUpon>W_PD1U21.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S23.resx">
+      <DependentUpon>W_PD1S23.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S31.resx">
+      <DependentUpon>W_PD1S31.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U32.resx">
+      <DependentUpon>W_PD1U32.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S33.resx">
+      <DependentUpon>W_PD1S33.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U41.resx">
+      <DependentUpon>W_PD1U41.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S42.resx">
+      <DependentUpon>W_PD1S42.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U50.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>W_PD1U50.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U60.resx">
+      <DependentUpon>W_PD1U60.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U61.resx">
+      <DependentUpon>W_PD1U61.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U90.resx">
+      <DependentUpon>W_PD1U90.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U42.resx">
+      <DependentUpon>W_PD1U42.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S43.resx">
+      <DependentUpon>W_PD1S43.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1S34.resx">
+      <DependentUpon>W_PD1S34.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="W_PD1U22.resx">
+      <DependentUpon>W_PD1U22.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ReceiveMessage.cs" />
+    <Compile Include="ReceiveXML.cs" />
+    <Compile Include="SendXML.cs" />
+    <Compile Include="ServerConfig.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TCPClient.cs" />
+    <Compile Include="W_PD1S00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S00.Designer.cs">
+      <DependentUpon>W_PD1S00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S10.Designer.cs">
+      <DependentUpon>W_PD1S10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S11.Designer.cs">
+      <DependentUpon>W_PD1S11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S20.Designer.cs">
+      <DependentUpon>W_PD1S20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S30.Designer.cs">
+      <DependentUpon>W_PD1S30.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S40.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S40.Designer.cs">
+      <DependentUpon>W_PD1S40.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S61.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S61.Designer.cs">
+      <DependentUpon>W_PD1S61.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U12.Designer.cs">
+      <DependentUpon>W_PD1U12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S13.Designer.cs">
+      <DependentUpon>W_PD1S13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U21.Designer.cs">
+      <DependentUpon>W_PD1U21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S23.Designer.cs">
+      <DependentUpon>W_PD1S23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S31.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S31.Designer.cs">
+      <DependentUpon>W_PD1S31.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U32.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U32.Designer.cs">
+      <DependentUpon>W_PD1U32.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S33.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S33.Designer.cs">
+      <DependentUpon>W_PD1S33.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U41.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U41.Designer.cs">
+      <DependentUpon>W_PD1U41.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S42.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S42.Designer.cs">
+      <DependentUpon>W_PD1S42.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U50.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U50.Designer.cs">
+      <DependentUpon>W_PD1U50.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U60.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U60.Designer.cs">
+      <DependentUpon>W_PD1U60.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U61.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U61.Designer.cs">
+      <DependentUpon>W_PD1U61.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U90.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U90.Designer.cs">
+      <DependentUpon>W_PD1U90.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U42.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U42.Designer.cs">
+      <DependentUpon>W_PD1U42.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S43.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S43.Designer.cs">
+      <DependentUpon>W_PD1S43.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1S34.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1S34.Designer.cs">
+      <DependentUpon>W_PD1S34.cs</DependentUpon>
+    </Compile>
+    <Compile Include="W_PD1U22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="W_PD1U22.Designer.cs">
+      <DependentUpon>W_PD1U22.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DY_WMS_CWPDA.ico" />
+    <Content Include="Language.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ServerConfig.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ServerConfig_Init.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+</Project>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<ServerConfig>
+  <CommSvrIP>172.31.95.145</CommSvrIP>
+  <CommSvrPort>5005</CommSvrPort>
+  <PrtSvrIP>172.31.95.145</PrtSvrIP>
+  <PrtSvrPort>5003</PrtSvrPort>
+  <Plant>PC00</Plant>
+  <StrLoc>1100</StrLoc>
+  <Lang>0</Lang>
+  <EditDateTime></EditDateTime>
+  <EditUser></EditUser> 
+</ServerConfig>

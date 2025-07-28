@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DYPC_WMS_PDA">
+</Property><Property Name="解决方案文件" Value="F:\#SAP  WMS SOURCE ALL\PDA\DYPC_WMS_PDA\DYPC_WMS_PDA.sln">
+</Property><Property Name="Date" Value="2019年8月21日">
+</Property><Property Name="Time" Value="16:31:21">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\DY_WMS_CWPDA_UPDATE.csproj" Description="项目文件已成功备份为 F:\#SAP  WMS SOURCE ALL\PDA\DYPC_WMS_PDA\Backup\DY_WMS_CWPDA_UPDATE.csproj">
+</Event><Event ErrorLevel="0" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\DY_WMS_CWPDA_UPDATE.csproj.user" Description="项目用户文件成功备份为 F:\#SAP  WMS SOURCE ALL\PDA\DYPC_WMS_PDA\Backup\DY_WMS_CWPDA_UPDATE.csproj.user">
+</Event><Event ErrorLevel="0" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\PDAUpdate.cs" Description="文件已成功备份为 F:\#SAP  WMS SOURCE ALL\PDA\DYPC_WMS_PDA\Backup\PDAUpdate.cs">
+</Event><Event ErrorLevel="0" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\PDAUpdate.Designer.cs" Description="文件已成功备份为 F:\#SAP  WMS SOURCE ALL\PDA\DYPC_WMS_PDA\Backup\PDAUpdate.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\#SAP  WMS SOURCE ALL\PDA\DYPC_WMS_PDA\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\PDAUpdate.resx" Description="文件已成功备份为 F:\#SAP  WMS SOURCE ALL\PDA\DYPC_WMS_PDA\Backup\PDAUpdate.resx">
+</Event><Event ErrorLevel="0" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\DY_WMS_CWPDA_UPDATE.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\DY_WMS_CWPDA_UPDATE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\PDAUpdate.resx" Description="文件已成功转换">
+</Event><Event ErrorLevel="3" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\PDAUpdate.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DY_WMS_CWPDA_UPDATE" Source="..\DYPC_WMS_PDA_UPDATE\DY_WMS_CWPDA_UPDATE.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
